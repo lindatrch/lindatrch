@@ -1,5 +1,5 @@
 Hi there! My name is Linda, I'm currently studying Computer Engineering at Universitat de Barcelona.
-My goal is to make cool and awesome projects while learning and trying new things. Hopefully you will be able to see some stuff soon!
+My goal is to make cool and awesome projects while I learn and try new things everytime. Hopefully you will be able to see some stuff soon!
 
 
 <!---
