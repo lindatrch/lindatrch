@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @lindatrch
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+Hi there! My name is Linda, I'm currently studying Computer Engineering at Universitat de Barcelona.
+My goal is to make cool and awesome projects while learning and trying new things. Hopefully you will be able to see some stuff soon!
+
 
 <!---
 lindatrch/lindatrch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
